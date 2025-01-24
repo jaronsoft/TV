@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-24 06:20:26,url
+2025-01-24 18:13:28,url
 电影,#genre#
 东森电影,https://iptv.vip-tptv.xyz/tv.php?id=4$订阅源|1920x1080
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie$订阅源
