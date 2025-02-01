@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-01 18:17:53,url
+2025-02-02 06:17:26,url
 电影,#genre#
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源|1920x1080
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie$订阅源
-东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源
