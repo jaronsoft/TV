@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-02-10 06:17:33" tvg-logo="https://live.fanmingming.com/tv/2025-02-10 06:17:33.png" group-title="更新时间",2025-02-10 06:17:33
+#EXTINF:-1 tvg-name="2025-02-10 18:16:21" tvg-logo="https://live.fanmingming.com/tv/2025-02-10 18:16:21.png" group-title="更新时间",2025-02-10 18:16:21
 url
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="电影",东森电影
 https://bsex.serv00.net/Smart.php?id=ettvmovie$订阅源
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="电影",东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="电影",东森电影
-http://106.53.99.30/公众号【榴芒电视】/proxy/tw.php?id=14$订阅源
+http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
