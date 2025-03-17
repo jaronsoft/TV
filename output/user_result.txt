@@ -1,5 +1,6 @@
 更新时间,#genre#
-2025-03-17 18:18:04,url
+2025-03-18 06:16:13,url
 电影,#genre#
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
