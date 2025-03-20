@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-20 18:19:50,url
+2025-03-21 06:16:24,url
 电影,#genre#
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源
 东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie$订阅源
